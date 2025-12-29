@@ -124,5 +124,14 @@
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op14_the_azure_seas_seven_logo.png"
     }
+  },
+  {
+    "id": "promotions",
+    "code": "PROMOS",
+    "name": "PROMOS",
+    "releaseDate": "",
+    "images": {
+      "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/promos_logo.png"
+    }
   }
 ]
