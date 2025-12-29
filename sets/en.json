@@ -126,6 +126,15 @@
     }
   },
   {
+    "id": "prb01",
+    "code": "Premium Booster",
+    "name": "Premium Booster",
+    "releaseDate": "",
+    "images": {
+      "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/prb01_the_best_logo.png"
+    }
+  },
+  {
     "id": "promotions",
     "code": "PROMOS",
     "name": "PROMOS",
