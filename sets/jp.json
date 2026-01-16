@@ -142,5 +142,14 @@
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/eb02_anime_25_collection_logo.png"
     }
+  },
+  {
+    "id": "eb03",
+    "code": "EB-03",
+    "name": "Heroines Edition",
+    "releaseDate": "2025/10/25",
+    "images": {
+      "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/eb03_op_heroiens_edition_logo.png"
+    }
   }
 ]
