@@ -145,11 +145,11 @@
   },
   {
     "id": "eb01",
-    "code": "MEMORIAL COLLECTION",
+    "code": "Memorial Collection",
     "name": "MEMORIAL COLLECTION",
     "releaseDate": "2024/05/03",
     "images": {
-      "logo": ""
+      "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/eb01_memorial_collection_logo.png"
     }
   },
   {
