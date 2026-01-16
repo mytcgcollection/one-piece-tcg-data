@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "EB01-001_p2",
+    "code": "EB01-001",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Kouzuki Oden",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png"
+    }
+  },
+  {
+    "id": "EB01-021_p2",
+    "code": "EB01-021",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Hannyabal",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p2.png"
+    }
+  },
+  {
+    "id": "EB01-040_p2",
+    "code": "EB01-040",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Kyros",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p2.png"
+    }
+  },
+  {
+    "id": "EB02-001",
+    "code": "EB02-001",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Karoo",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-001.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-001.png"
+    }
+  },
+  {
+    "id": "EB02-002",
+    "code": "EB02-002",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Sabo",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-002.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-002.png"
+    }
+  },
+  {
+    "id": "EB02-003",
+    "code": "EB02-003",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Tony Tony.Chopper",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-003.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-003.png"
+    }
+  },
+  {
+    "id": "EB02-003_p1",
+    "code": "EB02-003",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Tony Tony.Chopper",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-003_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-003_p1.png"
+    }
+  },
+  {
+    "id": "EB02-004",
+    "code": "EB02-004",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Don Accino",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-004.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-004.png"
+    }
+  },
+  {
+    "id": "EB02-005",
+    "code": "EB02-005",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Fake Straw Hat Crew",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-005.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-005.png"
+    }
+  },
+  {
+    "id": "EB02-006",
+    "code": "EB02-006",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Yamato",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-006.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-006.png"
+    }
+  },
+  {
+    "id": "EB02-006_p1",
+    "code": "EB02-006",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Yamato",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-006_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-006_p1.png"
+    }
+  },
+  {
+    "id": "EB02-007",
+    "code": "EB02-007",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Cloven Rose Blizzard",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-007.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-007.png"
+    }
+  },
+  {
+    "id": "EB02-008",
+    "code": "EB02-008",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "The Peak",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-008.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-008.png"
+    }
+  },
+  {
+    "id": "EB02-009",
+    "code": "EB02-009",
+    "rarity": "C",
+    "type": "STAGE",
+    "name": "Thousand Sunny",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-009.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-009.png"
+    }
+  },
+  {
+    "id": "EB02-010",
+    "code": "EB02-010",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-010.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-010.png"
+    }
+  },
+  {
+    "id": "EB02-010_p1",
+    "code": "EB02-010",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-010_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-010_p1.png"
+    }
+  },
+  {
+    "id": "EB02-011",
+    "code": "EB02-011",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Arlong",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-011.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-011.png"
+    }
+  },
+  {
+    "id": "EB02-011_p1",
+    "code": "EB02-011",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Arlong",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-011_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-011_p1.png"
+    }
+  },
+  {
+    "id": "EB02-012",
+    "code": "EB02-012",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Gaimon",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-012.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-012.png"
+    }
+  },
+  {
+    "id": "EB02-013",
+    "code": "EB02-013",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Carrot",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-013.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-013.png"
+    }
+  },
+  {
+    "id": "EB02-014",
+    "code": "EB02-014",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Sarfunkel",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-014.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-014.png"
+    }
+  },
+  {
+    "id": "EB02-015",
+    "code": "EB02-015",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Jewelry Bonney",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-015.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-015.png"
+    }
+  },
+  {
+    "id": "EB02-015_p1",
+    "code": "EB02-015",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Jewelry Bonney",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-015_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-015_p1.png"
+    }
+  },
+  {
+    "id": "EB02-016",
+    "code": "EB02-016",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Chopperman",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-016.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-016.png"
+    }
+  },
+  {
+    "id": "EB02-017",
+    "code": "EB02-017",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Nami",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-017.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-017.png"
+    }
+  },
+  {
+    "id": "EB02-017_p1",
+    "code": "EB02-017",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Nami",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-017_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-017_p1.png"
+    }
+  },
+  {
+    "id": "EB02-018",
+    "code": "EB02-018",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Buggy",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-018.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-018.png"
+    }
+  },
+  {
+    "id": "EB02-019",
+    "code": "EB02-019",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Roronoa Zoro",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-019.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-019.png"
+    }
+  },
+  {
+    "id": "EB02-020",
+    "code": "EB02-020",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "We Are!",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-020.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-020.png"
+    }
+  },
+  {
+    "id": "EB02-021",
+    "code": "EB02-021",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Gum-Gum Giant Pistol",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-021.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-021.png"
+    }
+  },
+  {
+    "id": "EB02-022",
+    "code": "EB02-022",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Usopp",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-022.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-022.png"
+    }
+  },
+  {
+    "id": "EB02-022_p1",
+    "code": "EB02-022",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Usopp",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-022_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-022_p1.png"
+    }
+  },
+  {
+    "id": "EB02-023",
+    "code": "EB02-023",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Crocodile",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-023.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-023.png"
+    }
+  },
+  {
+    "id": "EB02-024",
+    "code": "EB02-024",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Sogeking",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-024.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-024.png"
+    }
+  },
+  {
+    "id": "EB02-025",
+    "code": "EB02-025",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Donquixote Rosinante",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-025.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-025.png"
+    }
+  },
+  {
+    "id": "EB02-026",
+    "code": "EB02-026",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Nefeltari Vivi",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-026.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-026.png"
+    }
+  },
+  {
+    "id": "EB02-026_p1",
+    "code": "EB02-026",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Nefeltari Vivi",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-026_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-026_p1.png"
+    }
+  },
+  {
+    "id": "EB02-027",
+    "code": "EB02-027",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Vista",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-027.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-027.png"
+    }
+  },
+  {
+    "id": "EB02-028",
+    "code": "EB02-028",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-028.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-028.png"
+    }
+  },
+  {
+    "id": "EB02-029",
+    "code": "EB02-029",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Grandpa Ryu",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-029.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-029.png"
+    }
+  },
+  {
+    "id": "EB02-030",
+    "code": "EB02-030",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-030.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-030.png"
+    }
+  },
+  {
+    "id": "EB02-031",
+    "code": "EB02-031",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Hope",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-031.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-031.png"
+    }
+  },
+  {
+    "id": "EB02-032",
+    "code": "EB02-032",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Iceburg",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-032.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-032.png"
+    }
+  },
+  {
+    "id": "EB02-033",
+    "code": "EB02-033",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Klabautermann",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-033.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-033.png"
+    }
+  },
+  {
+    "id": "EB02-034",
+    "code": "EB02-034",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Komei",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-034.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-034.png"
+    }
+  },
+  {
+    "id": "EB02-035",
+    "code": "EB02-035",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Sanji & Pudding",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-035.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-035.png"
+    }
+  },
+  {
+    "id": "EB02-035_p1",
+    "code": "EB02-035",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Sanji & Pudding",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-035_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-035_p1.png"
+    }
+  },
+  {
+    "id": "EB02-036",
+    "code": "EB02-036",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Nico Robin",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-036.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-036.png"
+    }
+  },
+  {
+    "id": "EB02-036_p1",
+    "code": "EB02-036",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Nico Robin",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-036_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-036_p1.png"
+    }
+  },
+  {
+    "id": "EB02-037",
+    "code": "EB02-037",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Franky",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-037.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-037.png"
+    }
+  },
+  {
+    "id": "EB02-038",
+    "code": "EB02-038",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Magellan",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-038.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-038.png"
+    }
+  },
+  {
+    "id": "EB02-039",
+    "code": "EB02-039",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "GERMA 66",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-039.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-039.png"
+    }
+  },
+  {
+    "id": "EB02-040",
+    "code": "EB02-040",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "BRAND NEW WORLD",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-040.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-040.png"
+    }
+  },
+  {
+    "id": "EB02-041",
+    "code": "EB02-041",
+    "rarity": "R",
+    "type": "STAGE",
+    "name": "Merry Go",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-041.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-041.png"
+    }
+  },
+  {
+    "id": "EB02-042",
+    "code": "EB02-042",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "All-Hunt Grount",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-042.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-042.png"
+    }
+  },
+  {
+    "id": "EB02-043",
+    "code": "EB02-043",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Jonathan",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-043.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-043.png"
+    }
+  },
+  {
+    "id": "EB02-044",
+    "code": "EB02-044",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Sengoku",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-044.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-044.png"
+    }
+  },
+  {
+    "id": "EB02-044_p1",
+    "code": "EB02-044",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Sengoku",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-044_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-044_p1.png"
+    }
+  },
+  {
+    "id": "EB02-045",
+    "code": "EB02-045",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-045.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-045.png"
+    }
+  },
+  {
+    "id": "EB02-045_p1",
+    "code": "EB02-045",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-045_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-045_p1.png"
+    }
+  },
+  {
+    "id": "EB02-046",
+    "code": "EB02-046",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Hildon",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-046.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-046.png"
+    }
+  },
+  {
+    "id": "EB02-047",
+    "code": "EB02-047",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Blueno",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-047.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-047.png"
+    }
+  },
+  {
+    "id": "EB02-048",
+    "code": "EB02-048",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Brook",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-048.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-048.png"
+    }
+  },
+  {
+    "id": "EB02-048_p1",
+    "code": "EB02-048",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Brook",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-048_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-048_p1.png"
+    }
+  },
+  {
+    "id": "EB02-049",
+    "code": "EB02-049",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Garp",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-049.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-049.png"
+    }
+  },
+  {
+    "id": "EB02-050",
+    "code": "EB02-050",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Kokoro no Chizu",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-050.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-050.png"
+    }
+  },
+  {
+    "id": "EB02-051",
+    "code": "EB02-051",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Three-Pace Hum Soul Notch Slash",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-051.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-051.png"
+    }
+  },
+  {
+    "id": "EB02-052",
+    "code": "EB02-052",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Enel",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-052.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-052.png"
+    }
+  },
+  {
+    "id": "EB02-052_p1",
+    "code": "EB02-052",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Enel",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-052_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-052_p1.png"
+    }
+  },
+  {
+    "id": "EB02-053",
+    "code": "EB02-053",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Myskina Olga",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-053.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-053.png"
+    }
+  },
+  {
+    "id": "EB02-054",
+    "code": "EB02-054",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Sanji",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-054.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-054.png"
+    }
+  },
+  {
+    "id": "EB02-054_p1",
+    "code": "EB02-054",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Sanji",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-054_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-054_p1.png"
+    }
+  },
+  {
+    "id": "EB02-055",
+    "code": "EB02-055",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Jinbe",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-055.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-055.png"
+    }
+  },
+  {
+    "id": "EB02-056",
+    "code": "EB02-056",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Vegapunk",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-056.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-056.png"
+    }
+  },
+  {
+    "id": "EB02-056_p1",
+    "code": "EB02-056",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Vegapunk",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-056_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-056_p1.png"
+    }
+  },
+  {
+    "id": "EB02-057",
+    "code": "EB02-057",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Mad Treasure",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-057.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-057.png"
+    }
+  },
+  {
+    "id": "EB02-058",
+    "code": "EB02-058",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "UUUUUS!",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-058.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-058.png"
+    }
+  },
+  {
+    "id": "EB02-059",
+    "code": "EB02-059",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Without Your Help I Can't Become the King of the Pirates!!!!",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-059.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-059.png"
+    }
+  },
+  {
+    "id": "EB02-060",
+    "code": "EB02-060",
+    "rarity": "C",
+    "type": "STAGE",
+    "name": "Merry Go",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-060.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-060.png"
+    }
+  },
+  {
+    "id": "EB02-061",
+    "code": "EB02-061",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061.png"
+    }
+  },
+  {
+    "id": "EB02-061_p1",
+    "code": "EB02-061",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p1.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p1.png"
+    }
+  },
+  {
+    "id": "EB02-061_p2",
+    "code": "EB02-061",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p2.png"
+    }
+  },
+  {
+    "id": "OP05-001_p2",
+    "code": "OP05-001",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Sabo",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-001_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-001_p2.png"
+    }
+  },
+  {
+    "id": "OP05-002_p2",
+    "code": "OP05-002",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Belo Betty",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-002_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-002_p2.png"
+    }
+  },
+  {
+    "id": "OP05-022_p2",
+    "code": "OP05-022",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Donquixote Rosinante",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p2.png"
+    }
+  },
+  {
+    "id": "OP05-060_p4",
+    "code": "OP05-060",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Monkey.D.Luffy",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p4.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p4.png"
+    }
+  },
+  {
+    "id": "OP05-098_p3",
+    "code": "OP05-098",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Enel",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-098_p3.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-098_p3.png"
+    }
+  },
+  {
+    "id": "OP06-001_p2",
+    "code": "OP06-001",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Uta",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-001_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-001_p2.png"
+    }
+  },
+  {
+    "id": "OP06-020_p2",
+    "code": "OP06-020",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Hody Jones",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-020_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-020_p2.png"
+    }
+  },
+  {
+    "id": "OP06-021_p2",
+    "code": "OP06-021",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Perona",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-021_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-021_p2.png"
+    }
+  },
+  {
+    "id": "OP06-022_p2",
+    "code": "OP06-022",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Yamato",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p2.png"
+    }
+  },
+  {
+    "id": "OP06-042_p2",
+    "code": "OP06-042",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Vinsmoke Reiju",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-042_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-042_p2.png"
+    }
+  },
+  {
+    "id": "OP06-080_p2",
+    "code": "OP06-080",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Gecko Moria",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-080_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-080_p2.png"
+    }
+  },
+  {
+    "id": "OP07-001_p2",
+    "code": "OP07-001",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Monkey.D.Dragon",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-001_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-001_p2.png"
+    }
+  },
+  {
+    "id": "OP07-019_p2",
+    "code": "OP07-019",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Jewelry Bonney",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-019_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-019_p2.png"
+    }
+  },
+  {
+    "id": "OP07-038_p2",
+    "code": "OP07-038",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Boa Hancock",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-038_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-038_p2.png"
+    }
+  },
+  {
+    "id": "OP07-059_p2",
+    "code": "OP07-059",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Foxy",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-059_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-059_p2.png"
+    }
+  },
+  {
+    "id": "OP07-079_p2",
+    "code": "OP07-079",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Rob Lucci",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-079_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-079_p2.png"
+    }
+  },
+  {
+    "id": "OP07-097_p2",
+    "code": "OP07-097",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Vegapunk",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-097_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-097_p2.png"
+    }
+  },
+  {
+    "id": "OP08-001_p2",
+    "code": "OP08-001",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Tony Tony.Chopper",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p2.png"
+    }
+  },
+  {
+    "id": "OP08-002_p2",
+    "code": "OP08-002",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Marco",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p2.png"
+    }
+  },
+  {
+    "id": "OP08-021_p2",
+    "code": "OP08-021",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Carrot",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p2.png"
+    }
+  },
+  {
+    "id": "OP08-057_p2",
+    "code": "OP08-057",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "King",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png"
+    }
+  },
+  {
+    "id": "OP08-058_p2",
+    "code": "OP08-058",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Charlotte Pudding",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p2.png"
+    }
+  },
+  {
+    "id": "OP08-098_p2",
+    "code": "OP08-098",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Kalgara",
+    "images": {
+      "small": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png",
+      "large": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png"
+    }
+  }
+]
