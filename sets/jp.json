@@ -124,5 +124,23 @@
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op14_the_azure_seas_seven_logo.png"
     }
+  },
+  {
+    "id": "eb01",
+    "code": "EB-01",
+    "name": "Memorial Collection",
+    "releaseDate": "2024/01/27",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "eb02",
+    "code": "EB-02",
+    "name": "Anime 25th collection",
+    "releaseDate": "2025/01/25",
+    "images": {
+      "logo": ""
+    }
   }
 ]
