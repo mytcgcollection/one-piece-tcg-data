@@ -127,7 +127,7 @@
   },
   {
     "id": "prb01",
-    "code": "Premium Booster",
+    "code": "PRB-01",
     "name": "Premium Booster",
     "releaseDate": "2024/11/08",
     "images": {
@@ -145,7 +145,7 @@
   },
   {
     "id": "eb01",
-    "code": "Memorial Collection",
+    "code": "EB-01",
     "name": "MEMORIAL COLLECTION",
     "releaseDate": "2024/05/03",
     "images": {
@@ -154,11 +154,11 @@
   },
   {
     "id": "eb02",
-    "code": "Anime 25th Collection",
+    "code": "EB-02",
     "name": "Anime 25th Collection",
     "releaseDate": "2025/05/09",
     "images": {
-      "logo": ""
+      "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/eb02_anime_25_collection_logo.png"
     }
   }
 ]
