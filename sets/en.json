@@ -3,7 +3,7 @@
     "id": "op01",
     "code": "OP-01",
     "name": "Romance Dawn",
-    "releaseDate": "",
+    "releaseDate": "2022/12/02",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op01_romance_dawn_logo.png"
     }
@@ -12,7 +12,7 @@
     "id": "op02",
     "code": "OP-02",
     "name": "Paramount War",
-    "releaseDate": "",
+    "releaseDate": "2023/03/10",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op02_paramount_war_logo.png"
     }
@@ -21,7 +21,7 @@
     "id": "op03",
     "code": "OP-03",
     "name": "Pillars of Strength",
-    "releaseDate": "",
+    "releaseDate": "2023/06/30",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op03_pillars_of_strength_logo.png"
     }
@@ -30,7 +30,7 @@
     "id": "op04",
     "code": "OP-04",
     "name": "Kingdoms of Intrigue",
-    "releaseDate": "",
+    "releaseDate": "2023/09/22",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op04_kingdoms_of_intrigue.png"
     }
@@ -39,7 +39,7 @@
     "id": "op05",
     "code": "OP-05",
     "name": "Awakening of the New Era",
-    "releaseDate": "",
+    "releaseDate": "2023/12/08",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op05_awakening_of_the_new_era_logo.png"
     }
@@ -48,7 +48,7 @@
     "id": "op06",
     "code": "OP-06",
     "name": "Wings of Captain",
-    "releaseDate": "",
+    "releaseDate": "2024/03/15",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op06_wings_of_the_captain_logo.png"
     }
@@ -57,7 +57,7 @@
     "id": "op07",
     "code": "OP-07",
     "name": "500 Years in the Future",
-    "releaseDate": "",
+    "releaseDate": "2024/06/28",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op07_500_years_in_the_future_logo.png"
     }
@@ -66,7 +66,7 @@
     "id": "op08",
     "code": "OP-08",
     "name": "Two Legends",
-    "releaseDate": "",
+    "releaseDate": "2024/09/13",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op08_two_legends_logo.png"
     }
@@ -75,7 +75,7 @@
     "id": "op09",
     "code": "OP-09",
     "name": "Emperors in the New World",
-    "releaseDate": "",
+    "releaseDate": "2024/12/13",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op09_emperors_in_the_new_world_logo.png"
     }
@@ -84,7 +84,7 @@
     "id": "op10",
     "code": "OP-10",
     "name": "Royal Blood",
-    "releaseDate": "",
+    "releaseDate": "2025/03/21",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op10_royal_blood_logo.png"
     }
@@ -93,7 +93,7 @@
     "id": "op11",
     "code": "OP-11",
     "name": "A Fist of Divine Speed",
-    "releaseDate": "",
+    "releaseDate": "2025/06/06",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op11_a_fist_of_divine_speed_logo.png"
     }
@@ -102,7 +102,7 @@
     "id": "op12",
     "code": "OP-12",
     "name": "Legacy of the Master",
-    "releaseDate": "",
+    "releaseDate": "2025/08/22",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op12_legacy_of_the_master_logo.png"
     }
@@ -111,7 +111,7 @@
     "id": "op13",
     "code": "OP-13",
     "name": "Carrying on His Will",
-    "releaseDate": "",
+    "releaseDate": "2025/11/07",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op13_carrying_on_his_will_logo.png"
     }
@@ -120,7 +120,7 @@
     "id": "op14",
     "code": "OP-14",
     "name": "The Azure Sea’s Seven",
-    "releaseDate": "",
+    "releaseDate": "2026/01/16",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/op14_the_azure_seas_seven_logo.png"
     }
@@ -129,7 +129,7 @@
     "id": "prb01",
     "code": "Premium Booster",
     "name": "Premium Booster",
-    "releaseDate": "",
+    "releaseDate": "2024/11/08",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/prb01_the_best_logo.png"
     }
