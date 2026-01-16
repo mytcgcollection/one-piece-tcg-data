@@ -142,5 +142,23 @@
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/promos_logo.png"
     }
+  },
+  {
+    "id": "eb01",
+    "code": "MEMORIAL COLLECTION",
+    "name": "MEMORIAL COLLECTION",
+    "releaseDate": "2024/05/03",
+    "images": {
+      "logo": ""
+    }
+  },
+  {
+    "id": "eb02",
+    "code": "Anime 25th Collection",
+    "name": "Anime 25th Collection",
+    "releaseDate": "2025/05/09",
+    "images": {
+      "logo": ""
+    }
   }
 ]
