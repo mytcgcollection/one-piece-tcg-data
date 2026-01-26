@@ -151,5 +151,14 @@
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/eb03_op_heroiens_edition_logo.png"
     }
+  },
+  {
+    "id": "promotions",
+    "code": "PROMOS",
+    "name": "PROMOS",
+    "releaseDate": "2030/01/01",
+    "images": {
+      "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/promos_logo.png"
+    }
   }
 ]
