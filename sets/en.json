@@ -138,7 +138,7 @@
     "id": "promotions",
     "code": "PROMOS",
     "name": "PROMOS",
-    "releaseDate": "",
+    "releaseDate": "2030/01/01",
     "images": {
       "logo": "https://raw.githubusercontent.com/mytcgcollection/one-piece-tcg-data/main/images/sets/promos_logo.png"
     }
